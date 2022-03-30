@@ -1,5 +1,5 @@
 ### Oie! Sou a Letícia! :) ✨
-<!-- <hr><img align="right" width="150" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif"/> -->
+<hr><img align="right" width="150" src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif"/>
 <div style="display: inline_block"><br>
 💻 - Engenheira de Software <br>
 📚 - Estudante de Ciência da Computação na UFSC <br>
@@ -9,6 +9,7 @@
   <a href="https://www.instagram.com/leticianscm/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.youtube.com/channel/UCBMATDxeoZUwBDTX3Hq5vkQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/leticianscm/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+    <a href="https://www.twitch.tv/lehnda1" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
 </div>
 <hr>
 <div>
