@@ -1,8 +1,8 @@
-### 👋 Olá! Sou a Letícia! :) ✨
+### 👋 Hey! I'm Letícia! :) ✨
 <hr><img align="right" width="150" src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif"/>
 <div style="display: inline_block"><br>
-💻 Engenheira de Software <br>
-📚 Estudante de Ciência da Computação na UFSC <br>
+💻 Software Engineer (Full-Stack) <br>
+📚 Computer Science undergrad by UFSC <br>
 </div>
 
 <div style="display: inline_block"><br>
