@@ -2,7 +2,7 @@
 <hr><img align="right" width="150" src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif"/>
 <div style="display: inline_block"><br>
 💻 Software Engineer (Full-Stack) <br>
-📚 Computer Science undergrad by UFSC <br>
+🎓 Computer Science by UFSC <br>
 </div>
 
 <div style="display: inline_block"><br>
